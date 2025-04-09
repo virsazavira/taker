@@ -3107,3 +3107,12 @@
 4/9/2025 | 12:42:12 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/9/2025 | 12:42:12 PM | INFO | Trying to activate mining on-chain for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
 4/9/2025 | 12:42:24 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8864bb783df719f975b4183e6e4deb2cc9dd344ee8163055b26102dc8aab9069 
+4/9/2025 | 4:27:06 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/9/2025 | 4:27:06 PM | INFO | Start process for wallet 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+4/9/2025 | 4:27:07 PM | INFO | Trying To Login for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+4/9/2025 | 4:27:08 PM | INFO | Login successful... 
+4/9/2025 | 4:27:08 PM | INFO | Trying to check user info... 
+4/9/2025 | 4:27:08 PM | INFO | User ID: 28352193 | Twitter: @zvirsa | Total Points: 1176000 
+4/9/2025 | 4:27:08 PM | INFO | Trying to check user miner status... 
+4/9/2025 | 4:27:09 PM | INFO | Last mining time: 4/9/2025, 12:42:21 PM
+4/9/2025 | 4:27:09 PM | WARN | Mining already started, next mining time is: 4/10/2025, 12:42:21 PM
