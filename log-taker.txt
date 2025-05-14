@@ -5067,3 +5067,12 @@
 5/13/2025 | 8:24:38 PM | INFO | Trying to activate mining on-chain for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
 5/13/2025 | 8:24:38 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/13/2025 | 8:24:38 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/14/2025 | 1:47:29 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/14/2025 | 1:47:29 AM | INFO | Start process for wallet 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/14/2025 | 1:47:30 AM | INFO | Trying To Login for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/14/2025 | 1:47:30 AM | INFO | Login successful... 
+5/14/2025 | 1:47:30 AM | INFO | Trying to check user info... 
+5/14/2025 | 1:47:31 AM | INFO | User ID: 28352193 | Twitter: @zvirsa | Total Points: 1896000 
+5/14/2025 | 1:47:31 AM | INFO | Trying to check user miner status... 
+5/14/2025 | 1:47:36 AM | INFO | Last mining time: 5/13/2025, 4:27:09 AM
+5/14/2025 | 1:47:36 AM | WARN | Mining already started, next mining time is: 5/14/2025, 4:27:09 AM
