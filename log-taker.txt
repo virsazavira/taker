@@ -5387,3 +5387,12 @@
 5/19/2025 | 8:31:16 AM | INFO | Trying to activate mining on-chain for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
 5/19/2025 | 8:31:20 AM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86f82046580830f4240832dc6c08301fcb094b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a0d27878a63da8461535196df5d5fbd6f5a9ac2a09f0a5369fcdd66118d8f77e68a0519f0b8c5c8ad069d9fb55b0a4ecd7da0b119642ecc55e4ebeb6a2dac6190f2b","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/19/2025 | 8:31:20 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 12:46:41 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 12:46:41 PM | INFO | Start process for wallet 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/19/2025 | 12:46:41 PM | INFO | Trying To Login for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/19/2025 | 12:46:42 PM | INFO | Login successful... 
+5/19/2025 | 12:46:42 PM | INFO | Trying to check user info... 
+5/19/2025 | 12:46:42 PM | INFO | User ID: 28352193 | Twitter: @zvirsa | Total Points: 2040000 
+5/19/2025 | 12:46:42 PM | INFO | Trying to check user miner status... 
+5/19/2025 | 12:46:43 PM | INFO | Last mining time: 5/18/2025, 8:22:36 PM
+5/19/2025 | 12:46:43 PM | WARN | Mining already started, next mining time is: 5/19/2025, 8:22:36 PM
