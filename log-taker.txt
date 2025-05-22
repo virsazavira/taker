@@ -5532,3 +5532,16 @@
 5/21/2025 | 8:23:54 PM | INFO | Trying to check user miner status... 
 5/21/2025 | 8:23:55 PM | INFO | Last mining time: 5/20/2025, 8:24:57 PM
 5/21/2025 | 8:23:55 PM | WARN | Mining already started, next mining time is: 5/21/2025, 8:24:57 PM
+5/22/2025 | 1:48:11 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 1:48:11 AM | INFO | Start process for wallet 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/22/2025 | 1:48:12 AM | INFO | Trying To Login for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/22/2025 | 1:48:13 AM | INFO | Login successful... 
+5/22/2025 | 1:48:13 AM | INFO | Trying to check user info... 
+5/22/2025 | 1:48:13 AM | INFO | User ID: 28352193 | Twitter: @zvirsa | Total Points: 2088000 
+5/22/2025 | 1:48:13 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 1:48:14 AM | INFO | Last mining time: 5/20/2025, 8:24:57 PM
+5/22/2025 | 1:48:14 AM | INFO | Trying to start Mining for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/22/2025 | 1:48:14 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/22/2025 | 1:48:14 AM | INFO | Trying to activate mining on-chain for wallet: 0x90c9CE76132797f848713DB3cc373baa317E6Fd0 
+5/22/2025 | 1:48:15 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x90c9CE76132797f848713DB3cc373baa317E6Fd0"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x35","from":"0x90c9ce76132797f848713db3cc373baa317e6fd0","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/22/2025 | 1:48:15 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
